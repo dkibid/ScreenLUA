@@ -34,7 +34,7 @@ local CONFIG = {
 -- ── Load the library ─────────────────────────────────────────────────────
 -- Replace the URL with your raw GitHub / Pastebin link to ScreenLibrary.lua
 local Library = loadstring(game:HttpGet(
-    "YOUR_RAW_SCREENLIBRARY_URL_HERE"
+    "https://raw.githubusercontent.com/dkibid/ScreenLUA/refs/heads/main/ScreenLibrary_Fixed.lua"
 ))()
 
 -- ── Create window ────────────────────────────────────────────────────────
